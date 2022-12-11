@@ -6,9 +6,6 @@ michaelleung341@gmail.com
 
 Conda environment: can run on base environment
 
-Please download the folder as the link below
-https://drive.google.com/file/d/1WNWKOO7bxfJJnK3Tf0y-LrQjapXW9fSj/view?usp=sharing
-
 File discription
 Michael_Leung_life_expectancy_prediction - Notebook for the project
 Michael Leung Project Summary report.pdf - Summary report for the project 
